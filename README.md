@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @LucasCoffee
-- 👀 I’m interested in  aprender  front-end
-- 🌱 I’m currently learning  JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Eaii, seu sou o Lucas. 
+- 👀 Estudou estudando JS.
+- 🌱Estou no segundo semestre de engenharia de computação.
 
-<!---
-LucasCoffee/LucasCoffee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href:"https://github.com/LucasCoffee"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasCoffee&show_icons=true&theme=lithg&include_all_commits=true&count_private=true"/>    
+</div>
