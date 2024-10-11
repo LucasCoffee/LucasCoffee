@@ -1,7 +1,7 @@
 - 👋 Eaii, eu sou o Lucas:
-        Estudante de Sistemas de infomações
-        Membro do universo do JavaScript.
-        Foco na funcionalidade
+-         Estudante de Sistemas de infomações
+-         Membro do universo do JavaScript.
+-         Foco na funcionalidade
 
 <div>
   <a href:"https://github.com/LucasCoffee"/>
