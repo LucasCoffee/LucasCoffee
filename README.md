@@ -1,6 +1,7 @@
-- 👋 Eaii, seu sou o Lucas. 
-- 👀 Estudou estudando JS.
-- 🌱Estou no quarto semestre de sistemas de informação.
+- 👋 Eaii, eu sou o Lucas:
+        Estudante de Sistemas de infomações
+        Membro do universo do JavaScript.
+        Foco na funcionalidade
 
 <div>
   <a href:"https://github.com/LucasCoffee"/>
