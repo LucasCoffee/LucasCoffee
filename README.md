@@ -1,6 +1,5 @@
 - 👋 Eaii, eu sou o Lucas:
 -         Estudante de Sistemas de infomações
--         Membro do universo do JavaScript.
 -         Foco na funcionalidade
 
 <div>
